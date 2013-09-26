@@ -1,0 +1,6 @@
+#redcarpet is the mardown processor that Github uses 
+#It is the library that will take out markdown and convet it to html
+markdown: redcarpet
+# if you are hosting directly from .github.io then it will just be a slash and nothing after that
+# Write the url path that follows username.github.io
+baseurl: /dinosaurs
