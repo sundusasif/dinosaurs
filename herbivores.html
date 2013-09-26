@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h2>Herbivores</h2>
+<ul>
+	{% for dino in site.pages %}
+    	{% if dino.category == "herbivore" %}
+			<li>
+            <figure>
+            	<img src="img/{{dino.thumb}}" alt="">
+            	<figcaption>{{dino.name}}</figcaption>
+                </figure>
+          
+            
+           </li>
+    	{% endif %}
+    {% endfor %}
+</ul>

@@ -4,12 +4,12 @@ size: 2 m
 discovery: 1905
 discoverer: Henry Fairfield Osborn
 period: Late Cretaceous
-thumb: tyrannosaurus-rex.jpg
+thumb: velociraptor.jpg
 description: The *Velociraptor* is best known for its inaccurate portrayal in films including Jurassic Park
 category: carnivore
 source: http://en.wikipedia.org/wiki/Velociraptor
 ---
-![Velociraptor](img/velociraptor.jpg)
+![Velociraptor Skeleton](img/velociraptor-skeleton.jpg)
 
 *Velociraptor* is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the later part of the Cretaceous Period, with species discovered in Mongolia, China.
 
